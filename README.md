@@ -1,1 +1,1 @@
-# Counter-Using-React
+This is a simple projected I developed when learning React Js. There are 3 buttons in this project as decrement, reset and increment. The main value will respond according to the relevant button property.
